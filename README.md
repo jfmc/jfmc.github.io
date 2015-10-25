@@ -1,2 +1,2 @@
-# jfmc.github.io
-website
+# My GitHub website
+http://jfmc.github.io
